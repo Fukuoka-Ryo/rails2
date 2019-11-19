@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193f998d-e696-4cac-a3e5-2b53db64ef15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/rails2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rails2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574153922901</updated>
-      <workItem from="1574153925628" duration="248000" />
+      <workItem from="1574153925628" duration="1100000" />
     </task>
     <servers />
   </component>
@@ -171,5 +170,9 @@
       <screen x="0" y="23" width="1440" height="831" />
     </state>
     <state width="676" height="215" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1574153949643" />
+    <state x="616" y="187" key="IDE.errors.dialog" timestamp="1574154297012">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="616" y="187" key="IDE.errors.dialog/0.23.1440.829@0.23.1440.829" timestamp="1574154297012" />
   </component>
 </project>
